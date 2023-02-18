@@ -35,5 +35,5 @@ jobs:
             linux/amd64
           push: true
           tags: |
-            yikyo/clash.meta:latest
-            yikyo/clash.meta:${{ env.DATE }}
+            xuss/clash.meta:latest
+            xuss/clash.meta:${{ env.DATE }}
